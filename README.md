@@ -1,4 +1,4 @@
-# <Prework Study Guide Application>
+# Prework Study Guide Application
 
 ## Description
 
